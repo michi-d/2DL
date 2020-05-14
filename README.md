@@ -17,9 +17,11 @@ Chicago
 
 ## Usage
 
-Call
+Call:
 
  `spike_metric(A, B, approx_level, qt, qch, qa, c_add, c_del, one)`
+ 
+ Arguments:
 
 **INPUT**      : A, B, approx_steps, qt, qch, qa, c_add, c_del, one
 
