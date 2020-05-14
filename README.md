@@ -17,7 +17,7 @@ Chicago
 
 ## Usage
 
-To calculate the 2DL-similarity of two matrixes A and B call:
+To calculate the 2DL-similarity of two matrixes A and B, place the mex-file in your MATLAB current working folder and call:
 
  `spike_metric(A, B, approx_level, qt, qch, qa, c_add, c_del, one)`
  
